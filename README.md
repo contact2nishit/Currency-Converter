@@ -1,0 +1,2 @@
+# Currency-Converter
+This project is built to convert amount from one given currency to another specified currency using current FX rates. To illustrate, converting 100 INR into equivalent USD. A predefined list of currencies is configured in database, the same is fetched using a SQL connection. This list of currencies is then available as possible options for FX conversion on a Python based ‘Graphical User Interface (GUI)’. Based on the input amount and selected currency pair, the conversion is performed and results are displayed to the user. 
