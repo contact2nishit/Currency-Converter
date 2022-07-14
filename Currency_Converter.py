@@ -8,8 +8,8 @@ import mysql.connector
 #Database Connection to get allowed pairs for conversion
 mydb = mysql.connector.connect(
     host="localhost",
-    user="Nishit",
-    password="Apply@2021",
+    user="xxxxx",
+    password="xxxxxxxx",
     database="fxrates"
 )
 
